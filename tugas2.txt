@@ -1,0 +1,22 @@
+1. pengertian dari tuple, attribute dan relation
+
+Tuple merupakan baris pada sebuah relasi atau kumpulan elemen-elemen yang saling berkaitan menginformasikan tentang suatu entitas secara lengkap.
+
+Attribute (Atribut) merupakan kolom dari suatu relasi yang mempunyai nama.
+
+Relation (Relasi) merupakan sebuah tabel dengan kolom-kolom dan baris-baris. Pada model relasional, relasi digunakan untuk menyimpan informasi mengenai objek-objek yang direpresentasikan dalam sebuah basis data.
+
+2. tabel
+
+atribut: 
+NPM, Nama, Jenis Kelamin, JURUSAN, IPK
+tuple: 
+1. 57119789, Andi Gunawan, Laki - Laki, Akuntansi, 3.29
+2. 51319653, Leshi Puspitasari, Wanita, Hukum, 3.60
+3. 56719451, Maximilianus Anthoni, Laki - Laki, Ilmu Komputer, 3.17
+field:
+field NPM, field Nama, field Jenis Kelamin, field JURUSAN, field IPK
+
+3. pengertian dari:
+primary key adalah kolom yang akan menjadi identitas dari setiap baris tabel.
+candidate key adalah satu atau beberapa kolom di dalam tabel yang bisa mengidentifikasi tiap baris dari tabel tersebut. Selain tidak boleh ada data yang sama, kolom yang dikategorikan sebagai candidate key juga tidak boleh memiliki data kosong.
